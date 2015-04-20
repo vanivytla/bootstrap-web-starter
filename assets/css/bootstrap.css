@@ -1703,7 +1703,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #6c6c6c;
+  background-color: #fff;
 }
 
 /* line 36, ../sass/vendor/bootstrap/_scaffolding.scss */
@@ -1759,7 +1759,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #6c6c6c;
+  background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -3488,7 +3488,7 @@ th {
 }
 /* line 62, ../sass/vendor/bootstrap/_tables.scss */
 .table .table {
-  background-color: #6c6c6c;
+  background-color: #fff;
 }
 
 /* line 75, ../sass/vendor/bootstrap/_tables.scss */
@@ -5327,7 +5327,7 @@ tbody.collapse.in {
 /* line 96, ../sass/vendor/bootstrap/_navs.scss */
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: #6c6c6c;
+  background-color: #fff;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -5420,7 +5420,7 @@ tbody.collapse.in {
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #6c6c6c;
+    border-bottom-color: #fff;
   }
 }
 
@@ -6457,7 +6457,7 @@ a.badge:hover, a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #6c6c6c;
+  background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
