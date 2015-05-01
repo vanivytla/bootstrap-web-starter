@@ -10,3 +10,4 @@ Template for Bootstrap website with SASS
 * WOW.js - (http://mynameismatthieu.com/WOW/)
 * Owl Carousel - (http://owlgraphic.com/owlcarousel/)
 * Animate.css - (http://daneden.github.io/animate.css/)
+* Images - (http://pixabay.com/)
